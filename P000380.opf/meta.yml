@@ -1,5 +1,7 @@
 id: P000380
 initial_creation_type: ocr
+created_at: 17/03/2020
+last_modified_at: 24/11/2021
 source_metadata:
   id: bdr:W1KG4230
   title: བདེ་མཆོག་ནམ་མཁའ་དང་མཉམ་པའི་རྒྱུད་ཀྱི་རྩ་འགྲེལ
@@ -11,10 +13,3 @@ source_metadata:
       volume_number: 1
       total_pages: 68
       base_file: v001.txt
-ebook_metadata:
-  title: བདེ་མཆོག་ནམ་མཁའ་དང་མཉམ་པའི་རྒྱུད་ཀྱི་རྩ་འགྲེལ
-  author: ''
-  sku: P000380
-  cover: cover.jpg
-  layers:
-  - pagination
